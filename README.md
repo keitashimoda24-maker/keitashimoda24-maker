@@ -2,7 +2,7 @@
 
 > Non-engineer area manager running **10 convenience stores in Japan**, building daily operational automation with **Claude Code** — currently maintaining 30+ systems.
 >
-> Exploring **Forward Deployed Engineer (FDE)** opportunities — remote or contract.
+> Seeking **Forward Deployed Engineer (FDE)** roles — full-time, Tokyo-based (6 years living in Tokyo, relocation-ready).
 
 [English](#english) | [日本語](#日本語)
 
@@ -12,7 +12,7 @@
 
 ### What I do (day job)
 
-Area manager for 10 Lawson/FamilyMart-style convenience stores in Japan. Day-to-day involves staffing 25-30 employees, monthly shift design, payroll distribution, expense ops, inventory forecasting, attendance auditing, and a long tail of "small but mandatory" admin work.
+Area manager for 10 convenience stores in Japan (one of the major national chains). Day-to-day involves staffing 25-30 employees, monthly shift design, payroll distribution, expense ops, inventory forecasting, attendance auditing, and a long tail of "small but mandatory" admin work.
 
 ### What I actually build (using Claude Code)
 
@@ -61,6 +61,10 @@ Area manager for 10 Lawson/FamilyMart-style convenience stores in Japan. Day-to-
 
 Most of the above started from a domain problem, not a tech problem. FDE roles reward exactly that loop — sit next to a customer's pain, design with AI tooling, ship, measure. That's already what I do; the customer just happens to be me right now.
 
+### A note on language
+
+Native Japanese speaker. I read and write English (this profile is AI-assisted); my spoken English is currently a work in progress.
+
 ### Contact
 
 - Email: keitashimoda24@gmail.com
@@ -72,7 +76,7 @@ Most of the above started from a domain problem, not a tech problem. FDE roles r
 
 ### 本業
 
-ファミリーマート系列のコンビニ10店舗を統括するエリアマネージャー。スタッフ約25-30名、月次シフト作成、給与明細配布、経費処理、発注予測、勤怠監査などのオペレーションを担当。
+日本の大手コンビニエンスストアチェーン10店舗を統括するエリアマネージャー。スタッフ約25-30名、月次シフト作成、給与明細配布、経費処理、発注予測、勤怠監査などのオペレーションを担当。
 
 ### 作っているもの（Claude Code 活用）
 
@@ -108,6 +112,10 @@ Most of the above started from a domain problem, not a tech problem. FDE roles r
 ### なぜ FDE か
 
 これら全ては「技術問題」ではなく「業務の困りごと」から始まったもの。FDE はまさにそのループ（顧客の痛みの隣に座る → AI ツールで設計 → 出荷 → 計測）が報酬源。今は顧客が自分なだけで、やっていることは同じです。
+
+### 言語について
+
+日本語ネイティブ。英語は読み書き中心（本プロフィールもAI支援で作成）。会話は学習中です。
 
 ### 連絡先
 
