@@ -36,6 +36,7 @@ Area manager for 10 convenience stores in Japan (one of the major national chain
 | Repo | Description |
 |---|---|
 | [constraint-shift-scheduler](https://github.com/keitashimoda24-maker/constraint-shift-scheduler) | Monthly staff-shift scheduler on OR-Tools CP-SAT — a pure, testable solver mixing hard labour-law limits with soft preference / cost penalties. Extracted, fully generalized core of a production system (synthetic data, CI, tests) |
+| [multiagent-review-orchestrator](https://github.com/keitashimoda24-maker/multiagent-review-orchestrator) | A multi-agent security review pipeline for Claude Code — layered threat model + 4 parallel static agents + a safe-by-default dynamic prober (allow-list / dry-run / rate-limit, with tests) + a devil's-advocate gate |
 | [claude-code-smart-hooks](https://github.com/keitashimoda24-maker/claude-code-smart-hooks) | Conditional ultrathink injection for Claude Code — forces deep-reasoning structure at the hook level so output quality stops drifting between sessions |
 | [devils-advocate](https://github.com/keitashimoda24-maker/devils-advocate) | A Claude Code agent that runs as the final adversarial gate against groupthink in multi-agent pipelines (in review on the official marketplace) |
 | [slash-commands-jp](https://github.com/keitashimoda24-maker/slash-commands-jp) | Plugin that renders the latest Claude Code slash-command catalog in Japanese with operational usage examples (in review on the official marketplace) |
